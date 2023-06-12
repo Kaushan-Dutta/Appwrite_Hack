@@ -1,3 +1,7 @@
+<h1><p align="center">KhataApp</p></h1>
+<img src="https://github.com/Kaushan-Dutta/Appwrite_Hack/assets/94303484/bf39869b-ecfa-42ff-9112-ea21acc1b157">
+<img src="https://github.com/Kaushan-Dutta/Appwrite_Hack/assets/94303484/66a6f1c9-75c6-4c33-8b59-8429d4b6c433">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
